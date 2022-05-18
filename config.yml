@@ -1,0 +1,150 @@
+baseURL: "https://examplesite.com/"
+title: Theaveas So
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Theaveas So
+  description: "Theaveas So personal portfolio and blog"
+  keywords: [Blog, Portfolio, Machine Learning]
+  author: theaveasso
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006" 
+  defaultTheme: light # dark, light
+  disableThemeToggle: true
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "images/fav-icon.jpeg"
+    favicon16x16: "images/fav-icon.jpeg"
+    favicon32x32: "images/fav-icon.jpeg"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Theaveas So"
+    icon: "images/bio-sensor.png"
+    iconHeight: 27
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Hello World 👋🏽"
+    subtitle: "I am **Theaveas So**. A Multidisciplinay Architect interested in the intersection of Artificial Intelligence, Architectural Design, and Robotics. My main motivation behind this is to Explore Intelligence to Benifits Humanities"
+    imageUrl: "images/profile-pic.png"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Avatar
+    buttons:
+      - name: Blog
+        url: blog
+      - name: Project
+        url: project
+      - name: About Me
+        url: about
+
+  # home-info mode
+  homeInfoParams:
+    enabled: false
+    Title: "Hello World 👋🏽"
+    Content: "I am **Theaveas So**. A Interdisciplinay Architect interested in the intersection of Artificial Intelligence, Architectural Design, and Robotics. My main motivation behind this is to Explore Intelligence to Benifits Humanities"
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/theaveasso"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/theaveas-so-2b94541a5/"
+    - name: github
+      url: "https://github.com/theaveasso"
+    - name: instagram
+      url: "https://www.instagram.com/theaveasso/"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 10
+    - identifier: project
+      name: Project
+      url: /project/
+      weight: 20
+    - identifier: archive
+      name: Archive
+      url: /archive/
+      weight: 30
+    - identifier: connect
+      name: Connect
+      url: /connect/
+      weight: 40
+    - identifier: about
+      name: About Me
+      url: /about/
+      weight: 50
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
