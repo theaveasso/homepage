@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Theaveas So</title>
+    <link>https://theaveasso.github.io/</link>
+    <description>Recent content on Theaveas So</description>
+    <image>
+      <url>https://theaveasso.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://theaveasso.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 May 2022 22:33:45 +0800</lastBuildDate><atom:link href="https://theaveasso.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Connect</title>
+      <link>https://theaveasso.github.io/connect/</link>
+      <pubDate>Tue, 17 May 2022 22:34:24 +0800</pubDate>
+      
+      <guid>https://theaveasso.github.io/connect/</guid>
+      <description>If You&amp;rsquo;re Interested in: Artificial Intelligentce Game development Creative Coding Generative Art Robotic Let&amp;rsquo;s Build something Great together! Connect!</description>
+    </item>
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://theaveasso.github.io/about/</link>
+      <pubDate>Tue, 17 May 2022 22:31:03 +0800</pubDate>
+      
+      <guid>https://theaveasso.github.io/about/</guid>
+      <description>My name Theaveas So, A Interdisciplinary architect who interested in the intersection of Computational design, Artificial Intelligence, Architecture, and Robotic. I&amp;rsquo;m from Cambodia and finish my graduate program in China.
+🌱 I’m currently learning and researching Reinforcement learning, Machine Learning, Deep Learning and Procedural Modeling to explore the possibilities of intelligences.
+👨‍💻 All of my projects are available at https://github.com/theaveasso
+💬 Happy to chat with you about topics related to Computational Design, AI, Cryptocurrencies, Blockchain and Life</description>
+    </item>
+    
+    <item>
+      <title>Dynamic programming (DP)</title>
+      <link>https://theaveasso.github.io/blog/dp/</link>
+      <pubDate>Mon, 16 May 2022 13:18:26 +0800</pubDate>
+      
+      <guid>https://theaveasso.github.io/blog/dp/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Markov Decision Process (MDP)</title>
+      <link>https://theaveasso.github.io/blog/mdp/</link>
+      <pubDate>Mon, 16 May 2022 13:18:26 +0800</pubDate>
+      
+      <guid>https://theaveasso.github.io/blog/mdp/</guid>
+      <description>An Introdution to Markov Decision Process, Summary from Introduction to Reinforcement Learning Sutton Bato, 2nd edition Chapter 3</description>
+    </item>
+    
+    <item>
+      <title>Install Tensorflow on Mac M1 chip</title>
+      <link>https://theaveasso.github.io/blog/install_tf_on_macm1/</link>
+      <pubDate>Sun, 15 May 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://theaveasso.github.io/blog/install_tf_on_macm1/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Tf_image_clf</title>
+      <link>https://theaveasso.github.io/project/tf_image_clf/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://theaveasso.github.io/project/tf_image_clf/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>
