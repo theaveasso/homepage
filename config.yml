@@ -45,15 +45,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "images/logo.png"
-    favicon16x16: "images/logo.png"
-    favicon32x32: "images/logo.png"
+    favicon: "/logo.png"
+    favicon16x16: "/logo.png"
+    favicon32x32: "/logo.png"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Theaveas So"
-    icon: "images/logo.png"
+    icon: "/logo.png"
     iconHeight: 27
 
   # profile-mode
@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hello World 👋🏽"
     subtitle: "I am **Theaveas So**. A Multidisciplinay Architect interested in the intersection of Artificial Intelligence, Architectural Design, and Robotics. My main motivation behind this is to Explore Intelligence to Benifits Humanities"
-    imageUrl: "images/portrait.png"
+    imageUrl: "/portrait.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Avatar
