@@ -1,4 +1,4 @@
-baseURL: "https://theaveasso.github.io/"
+baseURL: "nostalai.com"
 title: Theaveas So
 paginate: 5
 theme: PaperMod
@@ -27,7 +27,7 @@ params:
   disableThemeToggle: true
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: trueç
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -53,7 +53,7 @@ params:
 
   label:
     text: "Theaveas So"
-    icon: "images/bio-sensor.png"
+    icon: "public/images/bio-sensor.png"
     iconHeight: 27
 
   # profile-mode
@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hello World 👋🏽"
     subtitle: "I am **Theaveas So**. A Multidisciplinay Architect interested in the intersection of Artificial Intelligence, Architectural Design, and Robotics. My main motivation behind this is to Explore Intelligence to Benifits Humanities"
-    imageUrl: "images/profile-pic.png"
+    imageUrl: "public/images/profile-pic.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Avatar
