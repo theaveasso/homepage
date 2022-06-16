@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI on Theaveas So</title>
-    <link>http://example.org/tags/ai/</link>
+    <link>/tags/ai/</link>
     <description>Recent content in AI on Theaveas So</description>
     <image>
-      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 16 May 2022 13:18:26 +0800</lastBuildDate><atom:link href="http://example.org/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 13:18:26 +0800</lastBuildDate><atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markov Decision Process (MDP)</title>
-      <link>http://example.org/blog/mdp/</link>
+      <link>/blog/mdp/</link>
       <pubDate>Mon, 16 May 2022 13:18:26 +0800</pubDate>
       
-      <guid>http://example.org/blog/mdp/</guid>
+      <guid>/blog/mdp/</guid>
       <description>An Introdution to Markov Decision Process, Summary from Introduction to Reinforcement Learning Sutton Bato, 2nd edition Chapter 3</description>
     </item>
     

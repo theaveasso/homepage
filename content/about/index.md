@@ -40,10 +40,10 @@ My name **Theaveas So**, A Interdisciplinary architect who interested in the int
 
 🌱 I’m currently learning and researching Reinforcement learning, Machine Learning, Deep Learning and Procedural Modeling to explore the  possibilities of intelligences.
 
-👨‍💻 All of my projects are available at https://github.com/theaveasso
+👨‍💻 All of my projects are available at [**Github**](https://github.com/theaveasso)
 
 💬 Happy to chat with you about topics related to Computational Design, AI, Cryptocurrencies, Blockchain and Life
 
-📫 How to reach me theaveas.so@gmail.com
+📫 [Let's chat](https://twitter.com/theaveasso)
 
 ⚡ Fun fact 2 years ago, I was in the best shape of my life, then I learned how to code and now I look like a slob. 100% worth it 🤓

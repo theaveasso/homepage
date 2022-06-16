@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: ""
 title: Theaveas So
 paginate: 5
 theme: PaperMod
@@ -45,15 +45,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "images/fav-icon.jpeg"
-    favicon16x16: "images/fav-icon.jpeg"
-    favicon32x32: "images/fav-icon.jpeg"
+    favicon: "images/logo.png"
+    favicon16x16: "images/logo.png"
+    favicon32x32: "images/logo.png"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Theaveas So"
-    icon: "images/bio-sensor.png"
+    icon: "images/logo.png"
     iconHeight: 27
 
   # profile-mode
@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hello World 👋🏽"
     subtitle: "I am **Theaveas So**. A Multidisciplinay Architect interested in the intersection of Artificial Intelligence, Architectural Design, and Robotics. My main motivation behind this is to Explore Intelligence to Benifits Humanities"
-    imageUrl: "images/profile-pic.png"
+    imageUrl: "images/portrait.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Avatar
@@ -69,7 +69,7 @@ params:
       - name: Blog
         url: blog
       - name: Project
-        url: project
+        url: https://github.com/theaveasso
       - name: About Me
         url: about
 
@@ -123,22 +123,18 @@ menu:
       name: Blog
       url: /blog/
       weight: 10
-    - identifier: project
-      name: Project
-      url: /project/
-      weight: 20
     - identifier: archive
-      name: Archive
-      url: /archive/
-      weight: 30
+      name: Achive
+      url: /achive
+      weight: 20
     - identifier: connect
       name: Connect
       url: /connect/
-      weight: 40
+      weight: 30
     - identifier: about
       name: About Me
       url: /about/
-      weight: 50
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:

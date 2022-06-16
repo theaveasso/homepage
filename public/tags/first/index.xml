@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>first on Theaveas So</title>
-    <link>http://example.org/tags/first/</link>
+    <link>/tags/first/</link>
     <description>Recent content in first on Theaveas So</description>
     <image>
-      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 May 2022 22:33:45 +0800</lastBuildDate><atom:link href="http://example.org/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 May 2022 22:33:45 +0800</lastBuildDate><atom:link href="/tags/first/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dynamic programming (DP)</title>
-      <link>http://example.org/blog/dp/</link>
+      <link>/blog/dp/</link>
       <pubDate>Mon, 16 May 2022 13:18:26 +0800</pubDate>
       
-      <guid>http://example.org/blog/dp/</guid>
+      <guid>/blog/dp/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>Install Tensorflow on Mac M1 chip</title>
-      <link>http://example.org/blog/install_tf_on_macm1/</link>
+      <link>/blog/install_tf_on_macm1/</link>
       <pubDate>Sun, 15 May 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://example.org/blog/install_tf_on_macm1/</guid>
+      <guid>/blog/install_tf_on_macm1/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>Tf_image_clf</title>
-      <link>http://example.org/project/tf_image_clf/</link>
+      <link>/project/tf_image_clf/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>http://example.org/project/tf_image_clf/</guid>
+      <guid>/project/tf_image_clf/</guid>
       <description>Desc Text.</description>
     </item>
     
