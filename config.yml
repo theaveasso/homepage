@@ -66,8 +66,6 @@ params:
     imageHeight: 120
     imageTitle: Avatar
     buttons:
-      - name: Blog
-        url: blog
       - name: Project
         url: https://github.com/theaveasso
       - name: About Me
@@ -119,22 +117,13 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: blog
-      name: Blog
-      url: /blog/
-      weight: 10
-    - identifier: archive
-      name: Achive
-      url: /achive
-      weight: 20
-    - identifier: connect
-      name: Connect
-      url: /connect/
-      weight: 30
-    - identifier: about
-      name: About Me
-      url: /about/
-      weight: 40
+    - identifier: 
+      name:
+      url: 
+      weight:
+ 
+
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
