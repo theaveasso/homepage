@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>nostalai.com/connect/</loc>
+    <loc>http://example.org/connect/</loc>
     <lastmod>2022-05-17T22:34:24+08:00</lastmod>
   </url><url>
-    <loc>nostalai.com/archive/</loc>
+    <loc>http://example.org/archive/</loc>
     <lastmod>2022-05-17T22:33:45+08:00</lastmod>
   </url><url>
-    <loc>nostalai.com/tags/first/</loc>
+    <loc>http://example.org/tags/first/</loc>
     <lastmod>2022-05-17T22:33:45+08:00</lastmod>
   </url><url>
-    <loc>nostalai.com/tags/</loc>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2022-05-17T22:33:45+08:00</lastmod>
   </url><url>
-    <loc>nostalai.com/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2022-05-17T22:33:45+08:00</lastmod>
   </url><url>
-    <loc>nostalai.com/about/</loc>
+    <loc>http://example.org/about/</loc>
     <lastmod>2022-05-17T22:31:03+08:00</lastmod>
   </url><url>
-    <loc>nostalai.com/tags/ai/</loc>
+    <loc>http://example.org/tags/ai/</loc>
     <lastmod>2022-05-16T13:18:26+08:00</lastmod>
   </url><url>
-    <loc>nostalai.com/blog/</loc>
+    <loc>http://example.org/blog/</loc>
     <lastmod>2022-05-16T13:18:26+08:00</lastmod>
   </url><url>
-    <loc>nostalai.com/blog/dp/</loc>
+    <loc>http://example.org/blog/dp/</loc>
     <lastmod>2022-05-16T13:18:26+08:00</lastmod>
   </url><url>
-    <loc>nostalai.com/blog/mdp/</loc>
+    <loc>http://example.org/blog/mdp/</loc>
     <lastmod>2022-05-16T13:18:26+08:00</lastmod>
   </url><url>
-    <loc>nostalai.com/tags/mdp/</loc>
+    <loc>http://example.org/tags/mdp/</loc>
     <lastmod>2022-05-16T13:18:26+08:00</lastmod>
   </url><url>
-    <loc>nostalai.com/tags/reinforcement-learning/</loc>
+    <loc>http://example.org/tags/reinforcement-learning/</loc>
     <lastmod>2022-05-16T13:18:26+08:00</lastmod>
   </url><url>
-    <loc>nostalai.com/blog/install_tf_on_macm1/</loc>
+    <loc>http://example.org/blog/install_tf_on_macm1/</loc>
     <lastmod>2022-05-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>nostalai.com/project/</loc>
+    <loc>http://example.org/project/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>nostalai.com/project/tf_image_clf/</loc>
+    <loc>http://example.org/project/tf_image_clf/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>nostalai.com/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url>
 </urlset>

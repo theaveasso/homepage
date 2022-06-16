@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Theaveas So</title>
-    <link>nostalai.com/tags/</link>
+    <link>http://example.org/tags/</link>
     <description>Recent content in Tags on Theaveas So</description>
     <image>
-      <url>nostalai.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>nostalai.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 May 2022 22:33:45 +0800</lastBuildDate><atom:link href="nostalai.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 May 2022 22:33:45 +0800</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first</title>
-      <link>nostalai.com/tags/first/</link>
+      <link>http://example.org/tags/first/</link>
       <pubDate>Tue, 17 May 2022 22:33:45 +0800</pubDate>
       
-      <guid>nostalai.com/tags/first/</guid>
+      <guid>http://example.org/tags/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI</title>
-      <link>nostalai.com/tags/ai/</link>
+      <link>http://example.org/tags/ai/</link>
       <pubDate>Mon, 16 May 2022 13:18:26 +0800</pubDate>
       
-      <guid>nostalai.com/tags/ai/</guid>
+      <guid>http://example.org/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MDP</title>
-      <link>nostalai.com/tags/mdp/</link>
+      <link>http://example.org/tags/mdp/</link>
       <pubDate>Mon, 16 May 2022 13:18:26 +0800</pubDate>
       
-      <guid>nostalai.com/tags/mdp/</guid>
+      <guid>http://example.org/tags/mdp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinforcement Learning</title>
-      <link>nostalai.com/tags/reinforcement-learning/</link>
+      <link>http://example.org/tags/reinforcement-learning/</link>
       <pubDate>Mon, 16 May 2022 13:18:26 +0800</pubDate>
       
-      <guid>nostalai.com/tags/reinforcement-learning/</guid>
+      <guid>http://example.org/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
     
