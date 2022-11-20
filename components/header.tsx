@@ -4,7 +4,8 @@ import React from 'react';
 
 // background image
 import BackgroundImage from '../assets/hero-bg.png';
-import { AnimatedTitle } from './Animation';
+import { AnimatedOnScroll, AnimatedTitle } from './Animation';
+import { Parallax } from './Parallax';
 
 const logoAnimated = {
 	hidden: { opacity: 0, y: 80 },
@@ -39,14 +40,22 @@ const Header = () => {
 				/>
 			</motion.div>
 			<div className='relative w-full h-screen flex justify-center items-center backdrop-blur-sm bg-black/10 opacity-90 space-x-5'>
-				<motion.div variants={logoAnimated} initial='hidden' animate='visible'>
-					<AnimatedTitle className='text-[30px] md:text-[80px] text-center space-x-3 font-[600] tracking-wider'>
+				{/* <motion.div variants={logoAnimated} initial='hidden' animate='visible'>
+					<AnimatedTitle >
 						Theaveas So
 					</AnimatedTitle>
-					<AnimatedTitle className='text-[10px] md:text-[40px] text-center font-[CascadiaCodePL] space-x-3 font-[600] tracking-tight'>
+					<AnimatedTitle >
 						Full Stack Serverless Engineer
 					</AnimatedTitle>
-				</motion.div>
+				</motion.div> */}
+				<Parallax>
+					<AnimatedOnScroll className='text-[30px] md:text-[80px] text-center space-x-3 font-[600] tracking-wider'>
+						Theaveas So
+					</AnimatedOnScroll>
+					<AnimatedOnScroll className='text-[10px] md:text-[40px] text-center font-[CascadiaCodePL] space-x-3 font-[600] tracking-tight'>
+						Full Stack Serverless Engineer
+					</AnimatedOnScroll>
+				</Parallax>
 			</div>
 
 			{/* overlay */}
