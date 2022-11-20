@@ -12,7 +12,7 @@ const Footer = () => {
 					Let&apos;s Connect
 				</h2>
 				<h3 className='text-xl md:text-5xl xl:mt-10 underline flex'>
-					hello@raedfish.solutions
+					hello@theaveasso.dev
 					<FiArrowUpRight className='ml-5s' />
 				</h3>
 			</div>
